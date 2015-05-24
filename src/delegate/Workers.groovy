@@ -1,4 +1,6 @@
-public class Worker{
+package delegate
+
+public class Workers{
     def work(){
         println "Worker working"
     }
